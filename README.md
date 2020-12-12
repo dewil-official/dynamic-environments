@@ -1,6 +1,7 @@
-# Alluring
+# Dynamic Environments 🏞
 
 > A cross platform app for changing wallpaper
+> Will evolve into an app to "switch environments", e.g. for work, gaming, learning, etc.
 
 ## Build Setup
 
@@ -12,8 +13,6 @@ yarn install
 electron .
 ```
 
-To know how it work, you can read [my post](https://medium.com/@nguynvithng_34102/the-making-of-a-wallpaper-changing-app-with-electron-and-vue-js-606e66b2a929).
+## Credits
 
-## Contact
-
-Gmail: viethungax@gmail.com
+- Forked from [ZeroX-DG/Alluring](https://github.com/ZeroX-DG/Alluring)
